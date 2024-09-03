@@ -1,10 +1,13 @@
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Danilo Castro</h1>
-<h3 align="center">A IT Coordinator, Developer, CyberSecurity, Tech lover...</h3>
+<h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">Danilo Castro</h1>
+<h3 align="center">A Data Engineer, Developer, CyberSecurity Analyst, Tech lover...</h3>
 
+- 🔭 I’m currently working on Data Engineer.
+
+<!--
 - 🔭 I’m currently working on LGPD, Cybersecurity.
 - 🌱 I’m currently learning JavaScript, Node, React Native
 - 💬 Ask me about Python, Java, Delphi
-<!--
+
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
